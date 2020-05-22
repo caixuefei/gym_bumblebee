@@ -1,1 +1,1 @@
-from gym_bumblebee.env.Bumblebee_Env import BumblebeeEnv
+from gym_bumblebee.envs.Bumblebee_Env import BumblebeeEnv
